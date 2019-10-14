@@ -1,9 +1,9 @@
 {
-    "name": "sandstorm/usermanagement",
+    "name": "anx-mwutte/usermanagement",
     "description": "Neos and Flow package for user management, login/logout, password reset and user activation",
     "type": "neos-package",
     "keywords": ["user", "login", "logout", "registration", "frontend login", "forgot password", "account", "Neos", "Flow"],
-    "homepage": "https://github.com/sandstorm/UserManagement",
+    "homepage": "https://github.com/anx-mwutte/UserManagement",
     "license": "MIT",
     "authors": [
         {
